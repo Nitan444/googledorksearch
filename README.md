@@ -1,3 +1,5 @@
+! 1er version !
+
 Google Dork Query Generator :
 Ce projet est un simple script Python qui génère des requêtes Google Dork pour aider à la recherche d'informations spécifiques sur le web via des moteurs de recherche. Il propose un ensemble de dorks prédéfinis pour explorer des fichiers de configuration, des bases de données, des pages de connexion, et d'autres types de ressources sensibles.
 
